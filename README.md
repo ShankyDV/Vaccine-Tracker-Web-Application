@@ -52,11 +52,6 @@ The data is sourced on a real-time basis from the CoWIN API, which is the offici
 
 1. Drop a ⭐ on the Github Repository. 
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
-
-```sh
-https://github.com/sameersrivastava13/Vaccine-Tracker-App.git
-```
-
 3. Install the Packages: 
 ```sh
 pip install -r requirements.txt
@@ -74,11 +69,6 @@ python app.py
 
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better?
 To start contributing, follow the below guidelines:
-
-**1.** Fork [this](https://github.com/sameersrivastava13/Vaccine-Tracker-App) repository.
-
-**2.** Clone your forked copy of the project.
-
 ```
 git clone https://github.com/<your_user_name>/Vaccine-Tracker-App.git
 
@@ -154,10 +144,6 @@ git push -u origin <your_branch_name>
 
 
 
-## CONTRIBUTORS
-<a href="https://github.com/sameersrivastava13/Vaccine-Tracker-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sameersrivastava13/Vaccine-Tracker-App" />
-</a>
 
 ## 📜 LICENSE
 
