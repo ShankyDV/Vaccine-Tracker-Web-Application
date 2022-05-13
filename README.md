@@ -24,12 +24,8 @@ The application will help user check the availability of vaccination slots for a
 
 The data is sourced on a real-time basis from the CoWIN API, which is the official government platform to book slots for vaccination.
 
-## PROJECT MAINTAINER -> **Sameer Srivastava**               
-<img height="300" width ="300" src =https://user-images.githubusercontent.com/56405152/126027078-4513ec8c-2939-49f0-81a2-201407689bc5.png>
+## Developer -> **Deepanshu Varun**               
 
-
-## PROJECT MENTOR -> **Sejal Panjwani** 
-<img height="300" width ="300" src =https://user-images.githubusercontent.com/56405152/125987719-d5088195-60c3-4c6c-be7c-d102d6dc2918.png>
 
 
 
@@ -85,7 +81,6 @@ cd Vaccine-Tracker-App
 
 **4.** Add a reference(remote) to the original repository.
 ```
-git remote add upstream https://github.com/sameersrivastava13/Vaccine-Tracker-App.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -146,5 +141,3 @@ git push -u origin <your_branch_name>
 
 
 ## 📜 LICENSE
-
-[MIT](https://github.com/sameersrivastava13/Vaccine-Tracker-App/blob/main/LICENSE)
